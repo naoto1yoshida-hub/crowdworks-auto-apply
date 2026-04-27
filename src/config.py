@@ -6,7 +6,8 @@
 - 必須キーは ANTHROPIC_API_KEY と SPREADSHEET_ID のみ。他は安全なデフォルトを持つ
 - audit C-2 解消のため Anthropic モデル ID は環境変数で差替可能（デフォルトのみ実装内固定）
 - audit M-3' で確定した User-Agent をデフォルトに採用
-- セレクタ系は HTML 構造変化時に Secret 経由で差替可能（feasibility v0.2 §8 R1 緩和策）
+- v0.3 で BS4 + DOM セレクタ方式を廃止 (実 HTML が Vue SPA で対応 DOM 不在)。
+  JSON 抽出方式 (vue-container[data]) に切替済のため SELECTOR_* キーは削除
 - frozen=True でランタイム改変を禁止し、構成のイミュータブル性を担保
 """
 
@@ -53,15 +54,6 @@ class Config:
     retry_max_attempts: int
     retry_backoff_base: float
 
-    # HTML selectors（環境変数で差替可能、デフォルトは Task 4 で実機検証して確定する暫定値）
-    selector_job_item: str
-    selector_job_link: str
-    selector_job_title: str
-    selector_job_posted_at: str
-    selector_job_category: str
-    selector_detail_body: str
-    selector_detail_budget: str
-
     # Pipeline
     daily_apply_limit: int
     score_threshold: int
@@ -107,21 +99,6 @@ class Config:
             max_detail_fetch=int(os.environ.get("MAX_DETAIL_FETCH", "30")),
             retry_max_attempts=int(os.environ.get("RETRY_MAX_ATTEMPTS", "2")),
             retry_backoff_base=float(os.environ.get("RETRY_BACKOFF_BASE", "2.0")),
-            selector_job_item=os.environ.get(
-                "SELECTOR_JOB_ITEM", "ul.search_results li.jobs_lists"
-            ),
-            selector_job_link=os.environ.get("SELECTOR_JOB_LINK", "a.item_title"),
-            selector_job_title=os.environ.get("SELECTOR_JOB_TITLE", "a.item_title"),
-            selector_job_posted_at=os.environ.get(
-                "SELECTOR_JOB_POSTED_AT", ".posted_time"
-            ),
-            selector_job_category=os.environ.get("SELECTOR_JOB_CATEGORY", ".category"),
-            selector_detail_body=os.environ.get(
-                "SELECTOR_DETAIL_BODY", ".job_detail_description"
-            ),
-            selector_detail_budget=os.environ.get(
-                "SELECTOR_DETAIL_BUDGET", ".job_contents_price"
-            ),
             daily_apply_limit=int(os.environ.get("DAILY_APPLY_LIMIT", "10")),
             score_threshold=int(os.environ.get("SCORE_THRESHOLD", "60")),
         )

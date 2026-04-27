@@ -1,0 +1,1971 @@
+{
+  "isMobile": false,
+  "searchResult": {
+    "job_offers": [
+      {
+        "job_offer": {
+          "id": 13086634,
+          "title": "【継続依頼あり】【初心者歓迎】筋トレについての記事（記事作成）をお願いします！",
+          "description_digest": "筋トレに関する記事のライティング作業です。\r\n\r\n初心者歓迎！\r\n\r\nテレワークが主流になってくる時代、ライティングの登竜門として筋トレに関するライティング（記事作成）をしてみませんか？\r\n\r\n効果的なトレーニングの方法や心構えなど、...",
+          "category_id": 56,
+          "genre": "sport",
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T10:02:01+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_writing_payment": {
+            "article_price": 600.0,
+            "min_articles_length": 500.0,
+            "max_articles_length": 500.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 3,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 1,
+          "username": "user_1",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086633,
+          "title": "⭐【Studio】AIコンサルティング企業のブランド価値を高めるWebサイト構築業務案件・JA-084678⭐",
+          "description_digest": "【JOBID:JA-084678】\r\n\r\nこんにちは！クラウドワークス テック事務局です。\r\n「クラウドワークス テック」は株式会社クラウドワークスが公式に運営するフリーランス参画支援サービスです。\r\n\r\n今回は、【Studio】AI...",
+          "category_id": 15,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T10:01:48+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 400000.0,
+            "max_budget": 500000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 2,
+          "username": "user_2",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086632,
+          "title": "【10分で1500円の方大多数♪】スキマ時間でカンタン撮影‼️",
+          "description_digest": "この度は数多くのお仕事のから弊社の募集ページをご覧いただきありがとうございます！\r\n以下の仕事の詳細を確認及び同意の上、ご応募下さい。\r\n\r\n１．概要\r\n二重美容に関する広告モデルのお仕事です。\r\n契約の金額は、\r\n1,500円/5素...",
+          "category_id": 121,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T10:01:48+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 0.0,
+            "max_budget": 5000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 5,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 3,
+          "username": "user_3",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086631,
+          "title": "【在宅OK/20代メンバー中心】スキルが身につく！ブランドのPRショート動画編集！スキル勉強中の方歓迎！",
+          "description_digest": "本業をしながら、副業としてスキルを身につけることもできます。\r\n20代メンバー中心のチームで運営しています。\r\n\r\n場所にとらわれない働き方を目指している方にもおすすめのお仕事です✨\r\n\r\n【仕事の詳細】\r\n・TikTokに投稿するブ...",
+          "category_id": 80,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-27T10:01:25+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 30000.0,
+            "max_budget": 50000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 2,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 4,
+          "username": "user_4",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086630,
+          "title": "【X API v2】指定アカウント群の最新ポスト自動取得・保存プログラムの開発（APIコスト最適化・簡単運用重視)",
+          "description_digest": "\r\n\r\n【依頼の目的・背景】  \r\n現在構築中の地域・トレンド情報ポータル向けバックエンド機能として、指定した特定アカウント群から、毎日決まった時間に最新ポストを自動収集するプログラムの作成をお願いします。\r\n\r\n対象は公開アカウント...",
+          "category_id": 368,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T10:00:59+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 50000.0,
+            "max_budget": 100000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 5,
+          "username": "user_5",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086627,
+          "title": "【ピュアリーピンクを使用したことがある方】インタビューにご協力をお願いいたします！",
+          "description_digest": "【 概要 】\r\nピュアリーピンクを使用したことがある方に、申し込みのきっかけや決め手となった情報についてインタビューにご協力いただきたいです。\r\nインタビューはGoogle Meet/ZOOMによるオンライン形式で行います。\r\n\r\nま...",
+          "category_id": 107,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-27T09:59:23+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": null
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 5,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 6,
+          "username": "user_6",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086626,
+          "title": "⭐【Meta広告・マーケティング】結婚相談所サービスの集客最大化・Webマーケティング案件・JA-084682⭐",
+          "description_digest": "【JOBID:JA-084682】\r\n\r\nこんにちは！クラウドワークス テック事務局です。\r\n「クラウドワークス テック」は株式会社クラウドワークスが公式に運営するフリーランス参画支援サービスです。\r\n\r\n今回は、【Meta広告・マー...",
+          "category_id": 136,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:59:02+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 500000.0,
+            "max_budget": 1000000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 2,
+          "username": "user_2",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086623,
+          "title": "【報酬3,000円・オンラインで最大60分】技術・人文・国際ビザ保有者向け｜日本での就職活動に関するインタビュー（顔出し）",
+          "description_digest": "日本で就職活動を行っている、または就職経験のある「技術・人文知識・国際業務」の在留資格をお持ちの方へのオンラインインタビューです。\r\n実際の就職活動の体験や、感じた課題についてお話しいただきます。\r\n\r\n■概要：\r\n・所要時間：最大6...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:56:44+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 3300.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 2,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 7,
+          "username": "user_7",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086622,
+          "title": "【報酬3,000円・オンラインで最大60分】日本で勉強する外国人学生向け｜日本での就職活動に関するインタビュー（顔出し）",
+          "description_digest": "日本で就職活動を行っている、外国人留学生の方へのオンラインインタビューです。\r\n実際の就職活動の体験や、感じた課題についてお話しいただきます。\r\n\r\n■概要：\r\n・所要時間：最大60分（ZoomまたはGoogle Meet）\r\n・顔出...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:56:28+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 1100.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 2,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 7,
+          "username": "user_7",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086621,
+          "title": "【簡単！5問で100円！】恋活中、婚活中の男女からの恋愛についての質問に、ご自身の意見やアドバイスを回答して頂くお仕事",
+          "description_digest": "【 依頼内容 】\r\n恋活中、婚活中の男女からの恋愛についての質問に、ご自身の意見やアドバイスを回答して頂くお仕事です。\r\n質問集の中から5個を選んでいただき、それぞれ最低100文字以上でコメントして頂きます。\r\n\r\n質問例： 合コンで...",
+          "category_id": 107,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-27T09:56:22+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 100.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 10,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 8,
+          "username": "user_8",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086617,
+          "title": "⭐【PHP】サーバーサイド開発およびAWSインフラ構築・運用業務案件・JA-084648⭐",
+          "description_digest": "【JOBID:JA-084648】\r\n\r\nこんにちは！クラウドワークス テック事務局です。\r\n「クラウドワークス テック」は株式会社クラウドワークスが公式に運営するフリーランス参画支援サービスです。\r\n\r\n今回は、【PHP】サーバーサ...",
+          "category_id": 2,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:54:59+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 500000.0,
+            "max_budget": 1000000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 2,
+          "username": "user_2",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086615,
+          "title": "野菜パウダーを使用したレシピ画像（1枚完結型）の制作",
+          "description_digest": "■概要\r\nAmazonストアおよびSNSで使用する「レシピ画像（1枚完結）」のデザイン制作をお願いします。\r\nナチュラル・おしゃれ・やさしい印象のデザインを希望しています。\r\n\r\n■制作内容\r\n下記レシピをもとに、1枚の画像にまとめて...",
+          "category_id": 18,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:54:42+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "competition_payment": {
+            "competition_price": 6600
+          }
+        },
+        "entry": {
+          "competition_entry": {
+            "num_proposal_products": 0
+          }
+        },
+        "client": {
+          "user_id": 9,
+          "username": "user_9",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086614,
+          "title": "【８分前後の動画編集のお仕事】シナリオあり、ナレーションあり、編集素材あり「１本3,500円」",
+          "description_digest": "【依頼内容】\r\nオリジナルシナリオをもとに、動画を作成していただくお仕事です。主な作業内容は以下になります。\r\n\r\n\r\n\r\n① 字幕データの作成\r\nシナリオテキストをもとに字幕データを作成していただきます。\r\n（VREWなど商用利用可...",
+          "category_id": 80,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-07",
+          "last_released_at": "2026-04-27T09:53:48+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 0.0,
+            "max_budget": 5000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 2,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 10,
+          "username": "user_10",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086613,
+          "title": "新築賃貸マンション設備設計（電気、機械）の依頼",
+          "description_digest": "\r\n【 概要 】\r\n都内にて建設予定の賃貸マンションの設備設計のご依頼\r\n（電気、機械）\r\n\r\n【 依頼内容 】\r\n基本計画〜基本設計〜実施設計における\r\n図面作成、各種法令チェック、各種提出書類の作成となります。※詳細は打ち合わせで...",
+          "category_id": 192,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-01",
+          "last_released_at": "2026-04-27T09:53:39+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": null
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 11,
+          "username": "user_11",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086610,
+          "title": "【スマホでのお仕事限定】30秒簡単作業！コピペするだけh9",
+          "description_digest": "【 概要 】\r\nスマホでのマーケティングのお仕事になります。\r\n【こちらで指定する順位は日々変わりますので、ご注意ください。】\r\n\r\n※この仕事はwebマーケティングの市場調査の為、募集させて頂いております。サイトへの誘導・宣伝及び特...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:52:05+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "task_payment": {
+            "task_price": 7.0,
+            "estimated_work_minutes": 19
+          }
+        },
+        "entry": {
+          "task_entry": {
+            "num_completed_tasks": 8,
+            "num_tasks": 47
+          }
+        },
+        "client": {
+          "user_id": 12,
+          "username": "user_12",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086606,
+          "title": "【在宅・簡単】企業問い合わせフォーム送信作業｜コピペ中心・未経験OK",
+          "description_digest": "＜仕事内容＞\r\n営業リストをもとに、企業の問い合わせフォームからメッセージを送信するお仕事です。\r\nコピペ中心のシンプルな作業で、特別なスキルは不要です。\r\n\r\n※営業リストは弊社でご用意します\r\n※作業方法（手動・ツール等）は問いま...",
+          "category_id": 52,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T09:49:34+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": null
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 4,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 13,
+          "username": "user_13",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086601,
+          "title": "【スマホでのお仕事限定】30秒簡単作業！コピペするだけ",
+          "description_digest": "スマホでのマーケティングのお仕事です！\r\n\r\n【こちらで指定する順位は日々変わりますので、ご注意ください。】\r\n\r\n※この仕事はwebマーケティングの市場調査の為、募集させて頂いております。サイトへの誘導・宣伝及び特定のワードで検索を...",
+          "category_id": 58,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:48:52+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "task_payment": {
+            "task_price": 6.0,
+            "estimated_work_minutes": 14
+          }
+        },
+        "entry": {
+          "task_entry": {
+            "num_completed_tasks": 2,
+            "num_tasks": 50
+          }
+        },
+        "client": {
+          "user_id": 14,
+          "username": "user_14",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086589,
+          "title": "【在宅テレアポスタッフ募集】ママさん歓迎｜週15時間～・フルリモート｜法人向け架電のお仕事 時給¥2,500相当〜",
+          "description_digest": "【 概要 】\r\n法人向けのテレアポをしていただける方を募集します。\r\n\r\n【 依頼内容 】\r\n・概要：営業支援の商材に関する、コールドコールでのBtoBの営業\r\n・具体的業務内容：\r\nー日次での稼働開始前の打合せ\r\nー稼働開始後のチェ...",
+          "category_id": 172,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:42:50+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "hourly_payment": {
+            "min_hourly_wage": 2000,
+            "max_hourly_wage": 3000
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 10,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 15,
+          "username": "user_15",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086583,
+          "title": "【1本2500円】YouTubeショート動画編集",
+          "description_digest": "はじめまして！多くの仕事の中から、この案件をご覧頂きありがとうございます！\r\n\r\n【 依頼内容 】\r\n格闘技解説系のショート動画の編集業務をお願いいたします！\r\n格闘技がわからない方でも指示書がありますので、問題なく取り組めると思いま...",
+          "category_id": 293,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-27T09:40:17+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 0.0,
+            "max_budget": 5000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 3,
+            "num_application_conditions": 2
+          }
+        },
+        "client": {
+          "user_id": 16,
+          "username": "user_16",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086577,
+          "title": "【継続案件】 YouTubeショート動画の制作",
+          "description_digest": "▼動画の内容は、アニメ系のジャンルになります。\r\nマニュアルもテンプレもありますので、編集を進めるにあたって不明点はない状態で進めれらると思います。\r\n台本はこちらで用意しますが、音声起こし・素材集めなど動画編集全般をお願いしたいです...",
+          "category_id": 293,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-27T09:37:27+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 0.0,
+            "max_budget": 5000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 3,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 16,
+          "username": "user_16",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086576,
+          "title": "【簡単・誰でもOK】リサーチ業務をお願いします！",
+          "description_digest": "ご覧いただきありがとうございます。\r\n画像素材のリサーチ業務をお願いいたします。\r\nマニュアルありで簡単な作業なので、誰でもできるかと思います。\r\n\r\n■お仕事内容\r\n・SNSでの商品の画像素材探し\r\n・Googleドライブへの画像の...",
+          "category_id": 54,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-02",
+          "last_released_at": "2026-04-27T09:37:09+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": null
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 17,
+          "username": "user_17",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086314,
+          "title": "外構・庭工事 CADオペレーター募集｜在宅可｜簡単事務補助歓迎｜継続依頼あり",
+          "description_digest": "\r\n\r\n庭外構図面作成経験のある方を優先しております。\r\n\r\n\r\n\r\n埼玉県を拠点に、庭づくり・外構工事・石工事を行っております。\r\n\r\n\r\n\r\n現在、今後お問い合わせ案件に対して、提案図・平面図・簡単な立面図作成を継続的にお願いでき...",
+          "category_id": 52,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T09:36:09+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 11000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 18,
+          "username": "user_18",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086572,
+          "title": "【宿泊・接客業従事者の方】外国人観光客の「急な体調不良対応」に関するアンケート",
+          "description_digest": "宿泊・接客業従事者の方へ「外国人観光客の”急な体調不良対応”」に関するアンケートへのご協力をお願いいたします。\r\n\r\n【依頼内容】\r\n・作業：「外国人観光客の”急な体調不良対応”」に関するアンケートに回答してください。\r\n・仕事量： ...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-27T09:34:17+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "task_payment": {
+            "task_price": 16.0,
+            "estimated_work_minutes": 14
+          }
+        },
+        "entry": {
+          "task_entry": {
+            "num_completed_tasks": 24,
+            "num_tasks": 159
+          }
+        },
+        "client": {
+          "user_id": 19,
+          "username": "user_19",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086566,
+          "title": "【急募】既存HPイラストに寄せたイラストを描いてくれる方",
+          "description_digest": "【 概要 】\r\n弊社HPに載せるスタッフのイメージイラストの作成をお願いいたします。\r\n既存のイラストがあるので、同様の雰囲気に寄せて描いていただきたいです。\r\n\r\n【 依頼内容 】\r\n・納品形式：png（背景透過）\r\n・サイズ：横1...",
+          "category_id": 27,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-28",
+          "last_released_at": "2026-04-27T09:33:42+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": null
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 20,
+          "username": "user_20",
+          "user_picture_url": "",
+          "is_employer_certification": true
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086561,
+          "title": "【在宅・時間自由】好きな時間にコツコツ在宅データ入力！",
+          "description_digest": "／\r\nデータ入力スタッフの募集にご興味をお持ちいただきありがとうございます。\r\n毎月月初めの一週間が繁忙期に稼働いただける、請求書・領収書データ入力作業スタッフを募集しています！\r\n＼\r\n\r\nどんなお仕事？\r\n￣￣￣￣￣￣￣￣￣￣￣￣...",
+          "category_id": 58,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:29:02+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 1.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1000,
+            "num_application_conditions": 6
+          }
+        },
+        "client": {
+          "user_id": 21,
+          "username": "user_21",
+          "user_picture_url": "",
+          "is_employer_certification": true
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086558,
+          "title": "【1本12分程度／800円】野球関連のYouTube動画のナレーション",
+          "description_digest": "数ある案件の中からご覧いただきありがとうございます！\r\n\r\n野球関連のYouTube動画のナレーションをしていただける方を募集してます。\r\nご興味のあるかたは、ぜひご応募ください。\r\n\r\n◆仕事内容\r\n\r\n野球関連のシナリオ原稿に沿っ...",
+          "category_id": 265,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-29",
+          "last_released_at": "2026-04-27T09:25:18+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": null
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 22,
+          "username": "user_22",
+          "user_picture_url": "",
+          "is_employer_certification": true
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13015112,
+          "title": "【看護師・医療職】このままでいいのか悩んでいる方へ｜働き方を見つめ直すライター募集",
+          "description_digest": "ご覧いただきありがとうございます。\r\n今の働き方、このままでいいのかと感じたことはありませんか？\r\n\r\n忙しい日々の中で\r\n・この働き方をずっと続けるのか\r\n・もっと違う選択肢があるのではないか\r\n・自由な働き方に興味はあるけど一歩踏...",
+          "category_id": 36,
+          "genre": "health_disease",
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-02",
+          "last_released_at": "2026-04-27T09:20:41+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_writing_payment": {
+            "article_price": 2000.0,
+            "min_articles_length": 1500.0,
+            "max_articles_length": 1500.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 130
+          }
+        },
+        "client": {
+          "user_id": 23,
+          "username": "user_23",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086545,
+          "title": "【初心者OK◎】見ているだけで楽しくなるグミ・キャンディーデザインを作ってみませんか？｜SNSデザインのお仕事　継続あり！",
+          "description_digest": "ご覧いただきありがとうございます！\r\n\r\nアカウント立ち上げに伴い、グミ・キャンディー系コンテンツの発信をお手伝いいただけるデザイナー様を募集しております✨\r\n\r\n今回は「見ているだけで楽しくなるグミ・キャンディー」をテーマに、\r\n\r...",
+          "category_id": 18,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-01",
+          "last_released_at": "2026-04-27T09:19:03+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 10000.0,
+            "max_budget": 30000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 6,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 24,
+          "username": "user_24",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086546,
+          "title": "【YouTube登録者数175万人突破！！】岡野タケシ弁護士チャンネルのショート動画の編集者を募集中！",
+          "description_digest": "たくさんのご依頼からご覧いただきありがとうございます。\r\n\r\n必ず最後までお読みください\r\n\r\n私たちはYouTube登録者175万人超えの岡野タケシ弁護士チャンネルの編集チームです。\r\n現在、ショート動画（1~2分程度）をクオリティ...",
+          "category_id": 80,
+          "genre": null,
+          "skills": [
+            {
+              "id": 3116,
+              "name": "Adobe Premiere Pro"
+            },
+            {
+              "id": 5287,
+              "name": "Adobe After Effects"
+            }
+          ],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:18:52+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 5000.0,
+            "max_budget": 10000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 7,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 25,
+          "username": "user_25",
+          "user_picture_url": "",
+          "is_employer_certification": true
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086535,
+          "title": "【アキュラホームで建てた方限定】レビュー投稿（150文字100円）",
+          "description_digest": "★スマホから簡単に投稿できます★\r\n\r\n【アキュラホームで注文住宅を建てた方限定】\r\n実際に建ててみて感じたことを、実体験ベースで弊社サイトにレビュー投稿をお願いいたします。\r\n特に迷ったメーカーと、決め手ポイントがあれば記載してほし...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:12:34+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "task_payment": {
+            "task_price": 110.0,
+            "estimated_work_minutes": 3
+          }
+        },
+        "entry": {
+          "task_entry": {
+            "num_completed_tasks": 0,
+            "num_tasks": 19
+          }
+        },
+        "client": {
+          "user_id": 26,
+          "username": "user_26",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13067686,
+          "title": "【1件3万円】未経験でも月20万〜を目指せる／飲食店への無料サービス案内／マニュアル完結で難しい交渉なし",
+          "description_digest": "【高単価】1件3万円／完全自由シフトの営業パートナー募集\r\n\r\n\r\n「今の給料にプラスαが欲しい」「成果をダイレクトに収入にしたい」\r\n\r\n\r\n事業拡大に伴い、オープニングスタッフを大幅増員中です。\r\n\r\n\r\n特別なスキルや経験は一切...",
+          "category_id": 368,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-01",
+          "last_released_at": "2026-04-27T09:11:45+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 300000.0,
+            "max_budget": 400000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 10,
+            "num_application_conditions": 2
+          }
+        },
+        "client": {
+          "user_id": 27,
+          "username": "user_27",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086532,
+          "title": "【アイダ設計で建てた方限定】レビュー投稿（150文字100円）",
+          "description_digest": "★スマホから簡単に投稿できます★\r\n\r\n【アイダ設計で注文住宅を建てた方限定】\r\n実際に建ててみて感じたことを、実体験ベースで弊社サイトにレビュー投稿をお願いいたします。\r\n特に迷ったメーカーと、決め手ポイントがあれば記載してほしいで...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:11:27+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "task_payment": {
+            "task_price": 110.0,
+            "estimated_work_minutes": 3
+          }
+        },
+        "entry": {
+          "task_entry": {
+            "num_completed_tasks": 0,
+            "num_tasks": 20
+          }
+        },
+        "client": {
+          "user_id": 26,
+          "username": "user_26",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086531,
+          "title": "【タマホームで建てた方限定】レビュー投稿（150文字100円）",
+          "description_digest": "★スマホから簡単に投稿できます★\r\n\r\n【タマホームで注文住宅を建てた方限定】\r\n実際に建ててみて感じたことを、実体験ベースで弊社サイトにレビュー投稿をお願いいたします。\r\n特に迷ったメーカーと、決め手ポイントがあれば記載してほしいで...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T09:10:52+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "task_payment": {
+            "task_price": 110.0,
+            "estimated_work_minutes": 3
+          }
+        },
+        "entry": {
+          "task_entry": {
+            "num_completed_tasks": 0,
+            "num_tasks": 20
+          }
+        },
+        "client": {
+          "user_id": 26,
+          "username": "user_26",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086528,
+          "title": "【文字数制限なし】 給水装置工事主任技術者 国家試験 過去問の解説作成 ",
+          "description_digest": "仕事内容は過去問.com（ https://kyuukou.kakomonn.com/ ）の解説を作る仕事です。\r\n過去問の問題文を読み、他の方にわかりやすいように解説文を作ってください。\r\n\r\n人に何かを教えることが得意な方、文章を...",
+          "category_id": 41,
+          "genre": null,
+          "skills": [
+            {
+              "id": 11171,
+              "name": "給水装置工事主任技術者"
+            }
+          ],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T09:09:46+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 3500.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 2,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 28,
+          "username": "user_28",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13070531,
+          "title": "【裁縫経験者求む】【ペットケージ用 防寒飛び散り防止カバー 】の裁縫のお仕事（トライアルあり！）",
+          "description_digest": "【 概要 】\r\n当方は、ペットのオリジナル商品の企画・製作・販売をしている企業です。\r\nオーダーメイドアトリエ【なおたんのペットグッズ】\r\nhttp://www.naotan-goods.com/\r\n\r\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝...",
+          "category_id": 216,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T09:09:04+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 0.0,
+            "max_budget": 5000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 1,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 2
+          }
+        },
+        "client": {
+          "user_id": 29,
+          "username": "user_29",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13037051,
+          "title": "【AD経験者歓迎】 オンライン秘書（メッセージ対応担当／シフト制）の募集 ",
+          "description_digest": "【募集背景】\r\n弊社はテレビ関係の業務を行っており、関係者とのやり取り（公式LINE・メール）をサポートいただけるオンライン秘書を募集します。\r\n特別な専門知識は不要ですが、最初は慣れるまで少し学んでいただく必要があります。\r\nマニュ...",
+          "category_id": 49,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T09:05:44+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 55000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 30,
+          "username": "user_30",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13037032,
+          "title": "【広告代理店経験者歓迎】 オンライン秘書（メッセージ対応担当／シフト制）の募集 ",
+          "description_digest": "【募集背景】\r\n弊社はテレビ関係の業務を行っており、関係者とのやり取り（公式LINE・メール）をサポートいただけるオンライン秘書を募集します。\r\n特別な専門知識は不要ですが、最初は慣れるまで少し学んでいただく必要があります。\r\nマニュ...",
+          "category_id": 49,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T09:05:37+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 55000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 5
+          }
+        },
+        "client": {
+          "user_id": 30,
+          "username": "user_30",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086511,
+          "title": "週15時間、時給2,500円～のご対応も可能！【在宅テレアポスタッフ募集】フルリモート・時間報酬型｜企業向け架電のお仕事",
+          "description_digest": "【 概要 】\r\n法人向けのテレアポをしていただける方を募集します。\r\n\r\n【 依頼内容 】\r\n・概要：営業支援の商材に関する、コールドコールでのBtoBの営業\r\n・具体的業務内容：\r\nー日次での稼働開始前の打合せ\r\nー稼働開始後のチェ...",
+          "category_id": 172,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T08:55:35+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "hourly_payment": {
+            "min_hourly_wage": 2000,
+            "max_hourly_wage": 3000
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 5,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 31,
+          "username": "user_31",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086508,
+          "title": "【長期的に関わってくれ方歓迎】女子旅×おしゃれホテル｜CanvaでSNSバナーデザイン",
+          "description_digest": "はじめまして。この度は案件をご覧いただきありがとうございます。\r\n\r\n女子旅やおしゃれホテルの魅力を発信する中で、\r\n制作を一緒に支えてくださる方を募集することになりました。\r\n信頼して任せられる方と取り組んでいけたらと考えています！...",
+          "category_id": 18,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T08:52:49+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 5000.0,
+            "max_budget": 10000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 2,
+            "num_application_conditions": 8
+          }
+        },
+        "client": {
+          "user_id": 32,
+          "username": "user_32",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086503,
+          "title": "【1000文字程度】1記事1200円からスタート！AIを活用したライティング",
+          "description_digest": "実務経験がなくても大丈夫！\r\n\r\n AIツールとライティング用のフォーマットを活用しながら、記事作成に挑戦していただけるお仕事です。 \r\n\r\n「AIは使ったことがなくて少し不安…」\r\n 「在宅で新しいスキルを学んでみたい」 \r\nそんな...",
+          "category_id": 37,
+          "genre": "others",
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T08:49:58+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_writing_payment": {
+            "article_price": 1200.0,
+            "min_articles_length": 1000.0,
+            "max_articles_length": 1000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 5,
+            "num_application_conditions": 7
+          }
+        },
+        "client": {
+          "user_id": 33,
+          "username": "user_33",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13050495,
+          "title": "【カフェ好きな方へ☕】Instagram投稿づくり｜在宅OK",
+          "description_digest": "■ こんなお仕事です\r\nカフェやスイーツが好きな方に向けた、Instagram投稿づくりのお仕事です。\r\n普段見ているような「カフェまとめ」「スイーツ紹介」などの投稿を実際に作っていただきます。\r\n難しい作業はなく、テンプレートを使い...",
+          "category_id": 57,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-02",
+          "last_released_at": "2026-04-27T08:49:37+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 10000.0,
+            "max_budget": 30000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 25
+          }
+        },
+        "client": {
+          "user_id": 34,
+          "username": "user_34",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13074136,
+          "title": "【学生・高齢者・主夫・主婦歓迎！】スキマ時間に“囲碁”を教えて下さい【継続あり】",
+          "description_digest": "\r\n“囲碁”の初心者に基本を教えてくれる方\r\n\r\n募集内容をご覧いただきありがとうございます。\r\n囲碁を始めたばかりの初心者（二桁級）です。\r\n\r\n”どうして、この場所にに打つのか？””相手がどうして、この場所に打ったのか？”等\r\nそ...",
+          "category_id": 58,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-10",
+          "last_released_at": "2026-04-27T08:48:06+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "hourly_payment": {
+            "min_hourly_wage": 700,
+            "max_hourly_wage": 1000
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 2,
+            "num_application_conditions": 2
+          }
+        },
+        "client": {
+          "user_id": 35,
+          "username": "user_35",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086499,
+          "title": "半導体関連メーカー工場紹介動画のCG素材作成",
+          "description_digest": "【 概要 】\r\n今回、半導体関連メーカー様の工場紹介動画の中で使用するCGムービーの制作をお願いします。\r\n\r\n【 依頼内容 】\r\nこちらで用意する参考動画と構成案をもとに、\r\n製造ラインの機器の動きを表現する3DCGを3点制作してい...",
+          "category_id": 80,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-28",
+          "last_released_at": "2026-04-27T08:47:53+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": null
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 36,
+          "username": "user_36",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086496,
+          "title": "【アニメ好き必見】推しの魅力を探すお仕事！素材収集スタッフ｜1枚15円｜少年ジャンプ作品（呪術廻戦など）の知識を活かせる",
+          "description_digest": "「アニメを見るのが大好き」「最新話のチェックは欠かさない」そんなあなたの知識が必要です！\r\n指定されたシーンにぴったりの画像・動画を探す、宝探しのようなお仕事です。\r\n好きな作品の素材を集めるので、作業中のストレスはゼロ。\r\nむしろ「...",
+          "category_id": 293,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-29",
+          "last_released_at": "2026-04-27T08:47:09+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 5000.0,
+            "max_budget": 10000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 5,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 37,
+          "username": "user_37",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086495,
+          "title": "【素材収集ワーカー募集】動画編集・動画制作アシスタント継続案件あり【アニメ解説チャンネル】",
+          "description_digest": "ご覧いただきありがとうございます！\r\n今回募集するのは、ショート動画編集に使用する画像・動画素材を集めるシンプルなお仕事です。\r\n特別なスキルは不要で、マニュアルもあるため、普段インターネット検索をしている方ならすぐに始められます。\r...",
+          "category_id": 293,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-29",
+          "last_released_at": "2026-04-27T08:46:41+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 5000.0,
+            "max_budget": 10000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 5,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 37,
+          "username": "user_37",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086483,
+          "title": "Amazon広告の初期設計やQoo10、自社ECの展開などマーケティング運用ができる方",
+          "description_digest": "海外化粧品の日本ローンチにあたり下記ができる方を募集します。\r\n\r\nAmazon広告の初期設計\r\nキーワード設計\r\n広告予算の設計\r\nROAS、ACOSを見た改善運用\r\n商品ページ改善との連動\r\nQoo10、TikTok Shop、自...",
+          "category_id": 292,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T08:43:55+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 250000.0,
+            "max_budget": 300000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 1,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 38,
+          "username": "user_38",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13024913,
+          "title": "●【弾丸旅行体験✨】働く私の心を整える「弾丸エスケープ旅」ライティング『これから活動を広げたい方歓迎☕️』●",
+          "description_digest": "ご覧いただきありがとうございます☺️\r\n「明日からの仕事が、少し楽しみになる。」\r\nそんな、日常からふいに行き先を決める弾丸旅や、自分をリセットする時間。\r\n私自身、会社員として働きながら感じた「小さなわくわく」を大切に発信してきまし...",
+          "category_id": 37,
+          "genre": "entertainment",
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-27T08:42:19+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_writing_payment": {
+            "article_price": 1000.0,
+            "min_articles_length": 800.0,
+            "max_articles_length": 800.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 1,
+            "project_contract_hope_number": 5,
+            "num_application_conditions": 2
+          }
+        },
+        "client": {
+          "user_id": 39,
+          "username": "user_39",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13071459,
+          "title": "◉【心地よい朝を仕事に☕️】週末のモーニングや「朝の自分時間」を大切にするあなたへ。清々しい空気感を綴るコラム募集 ◉",
+          "description_digest": "【案件の背景】\r\n✴︎静かな朝の時間で、心に余裕を持ちたいあなたへ✴︎\r\n\r\nご覧いただきありがとうございます☺️フリーランスとして活動しているdidと申します。\r\nもともとは会社員として働いていましたが、「将来このままでいいのかな？...",
+          "category_id": 37,
+          "genre": "entertainment",
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-27T08:40:37+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_writing_payment": {
+            "article_price": 2500.0,
+            "min_articles_length": 1800.0,
+            "max_articles_length": 1800.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 4,
+            "num_application_conditions": 1
+          }
+        },
+        "client": {
+          "user_id": 40,
+          "username": "user_40",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086469,
+          "title": "ライティングに関する記事を読んで簡単なワークに回答するお仕事です",
+          "description_digest": "当社で開発中の在宅ワーク（ライティング）入門向けeラーニング教材について、 ユーザー視点でのフィードバックをいただける方を募集いたします。\r\n\r\n■ 委託内容\r\n・学習記事（全5本）の閲読\r\n・各記事に用意された簡単なワーク（質問に回...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-11",
+          "last_released_at": "2026-04-27T08:36:49+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 110.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 80,
+            "num_application_conditions": 2
+          }
+        },
+        "client": {
+          "user_id": 41,
+          "username": "user_41",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13086452,
+          "title": "【500円｜500文字以上】普段の1日の過ごし方を教えてください｜選べるテーマ・誰でもOK",
+          "description_digest": "ご覧いただきありがとうございます。\r\n今回は、日常の過ごし方に関する「体験談」を募集いたします。\r\n\r\nーーーーーーーーーーーーーーーーーーーーーーーー\r\n【テーマ】1日の過ごし方・時間の使い方に関する体験談\r\nーーーーーーーーーーー...",
+          "category_id": 41,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-27T08:35:26+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 3300.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 10,
+            "num_application_conditions": 14
+          }
+        },
+        "client": {
+          "user_id": 42,
+          "username": "user_42",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      }
+    ],
+    "pr_diamond": [
+      {
+        "job_offer": {
+          "id": 13063985,
+          "title": "新千歳空港を利用予定の方必見！モニター業務で4万円【クラウドワークス フリサプ公式】クレカ特典「空港ラウンジ」利用者募集！GP",
+          "description_digest": "【株式会社クラウドワークスが運営するフリーランス・副業の本気を応援するメディア「フリサプ」事務局からのお仕事依頼です。】\r\n本案件は、新生活の節目や日常の生活の中においてクレジットカードの付帯特典（空港ラウンジ）を実際に体験いただき、...",
+          "category_id": 54,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-29",
+          "last_released_at": "2026-04-15T21:11:59+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": null,
+            "max_budget": 50600.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 10,
+            "num_application_conditions": 0
+          }
+        },
+        "client": {
+          "user_id": 43,
+          "username": "user_43",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13070719,
+          "title": "【副業デザイナー志望歓迎】画像制作業務・AI・マニュアル完備・完全在宅・フィードバック付き・実践を通してスキルアップをサポート",
+          "description_digest": "【 概要 】\r\nChatGPTを使用した画像生成業務\r\n\r\n【 ChatGPT 】\r\nhttps://chatgpt.com\r\n※Googleアカウントがあれば無料で使用できます\r\n\r\n【 依頼内容 】\r\n弊社から生成していただきたい...",
+          "category_id": 18,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-03",
+          "last_released_at": "2026-04-19T12:37:23+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 0.0,
+            "max_budget": 5000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 4,
+            "project_contract_hope_number": 100,
+            "num_application_conditions": 25
+          }
+        },
+        "client": {
+          "user_id": 44,
+          "username": "user_44",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13082481,
+          "title": "【在宅・未経験OK】簡単リサーチ業務（情報収集・データ整理）｜マニュアルあり",
+          "description_digest": "募集をご覧いただきありがとうございます。\r\n\r\n本案件では、インターネット上で公開されている情報をもとに、\r\n簡単なリサーチおよびデータ整理を行っていただける方を募集しております。\r\n\r\n指定された条件に沿って情報を収集し、フォーマッ...",
+          "category_id": 86,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-08",
+          "last_released_at": "2026-04-24T15:35:43+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 0.0,
+            "max_budget": 5000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 6,
+            "project_contract_hope_number": 16,
+            "num_application_conditions": 36
+          }
+        },
+        "client": {
+          "user_id": 45,
+          "username": "user_45",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      }
+    ],
+    "pr_platinum": [
+      {
+        "job_offer": {
+          "id": 13072187,
+          "title": "英語を活かせる｜外国人向けビジネスサポート（通訳・アシスタント）",
+          "description_digest": "海外（アメリカ）から来日するビジネス関係者のサポート業務です。\r\n英語を使ったコミュニケーションや各種調整業務をご担当いただきます。\r\n\r\n【主な業務内容】\r\n・外国人クライアントとの簡単な英語対応（通訳・メッセージ対応）\r\n・物件内...",
+          "category_id": 154,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-20T11:48:13+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "hourly_payment": {
+            "min_hourly_wage": 1500,
+            "max_hourly_wage": 2000
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 3,
+            "num_application_conditions": 14
+          }
+        },
+        "client": {
+          "user_id": 46,
+          "username": "user_46",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13074787,
+          "title": "男性の育児休業に関する調査１（所要時間10～15分程度）",
+          "description_digest": "【タイトル】\r\n男性の育児休業に関する調査１（所要時間10～15分程度）\r\n\r\n\r\n【概要】\r\n本調査は関西学院大学の岩谷研究室が実施する学術調査です。\r\n\r\n【依頼内容】\r\n1. クラウドワークス上で作業開始ボタン (ページ下部) ...",
+          "category_id": 108,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-05",
+          "last_released_at": "2026-04-21T11:27:49+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "task_payment": {
+            "task_price": 110.0,
+            "estimated_work_minutes": 2
+          }
+        },
+        "entry": {
+          "task_entry": {
+            "num_completed_tasks": 247,
+            "num_tasks": 350
+          }
+        },
+        "client": {
+          "user_id": 47,
+          "username": "user_47",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      }
+    ],
+    "pr_gold": [
+      {
+        "job_offer": {
+          "id": 13065032,
+          "title": "【在宅ワーク】SNSアカウント運用代行スタッフ募集！（長期継続・実績公開可）",
+          "description_digest": "\r\n数ある案件の中からご覧いただき、ありがとうございます。\r\nSNSアカウントの運用をサポートしていただける方を募集しております。\r\n\r\nアカウントの成長を一緒に楽しみながら、長期的なパートナーとしてご活躍いただける方からのご応募をお...",
+          "category_id": 133,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-04-30",
+          "last_released_at": "2026-04-16T15:23:34+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "fixed_price_payment": {
+            "min_budget": 50000.0,
+            "max_budget": 100000.0
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 3,
+            "num_application_conditions": 56
+          }
+        },
+        "client": {
+          "user_id": 48,
+          "username": "user_48",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      },
+      {
+        "job_offer": {
+          "id": 13072898,
+          "title": "ebay輸出の規模拡大に伴い、調査作業に力を貸してくれるパートナーを急募中です！",
+          "description_digest": "★お仕事概要★\r\n\r\nebayの商品調査です\r\n\r\n※初めての方でもカンタンに作業出来る様に、動画のマニュアルを用意してあります\r\n※英語は得意でなくても大丈夫です\r\n\r\n\r\n★お仕事をお受けいただくメリット★\r\n\r\n（報酬の他に…）...",
+          "category_id": 252,
+          "genre": null,
+          "skills": [],
+          "options": [],
+          "status": "released",
+          "expired_on": "2026-05-04",
+          "last_released_at": "2026-04-20T15:09:54+09:00",
+          "is_login_required": false
+        },
+        "payment": {
+          "hourly_payment": {
+            "min_hourly_wage": 1000,
+            "max_hourly_wage": 2000
+          }
+        },
+        "entry": {
+          "project_entry": {
+            "num_contracts": 0,
+            "project_contract_hope_number": 3,
+            "num_application_conditions": 16
+          }
+        },
+        "client": {
+          "user_id": 49,
+          "username": "user_49",
+          "user_picture_url": "",
+          "is_employer_certification": false
+        }
+      }
+    ],
+    "recommendation": [],
+    "watchlists": [],
+    "page": {
+      "current_page": 1,
+      "total_page": 7209,
+      "offset": 0,
+      "size": 50,
+      "total_entries": 360411
+    }
+  },
+  "showSurvey": false,
+  "isBeginner": false
+}

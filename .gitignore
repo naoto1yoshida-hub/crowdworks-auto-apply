@@ -12,3 +12,8 @@ dist/
 build/
 *.egg-info/
 .venv/
+
+# v0.3 Task 4 着手時に Woz が実機 HTML を 1 度だけ取得した解析資料。
+# 匿名化フィクスチャ (tests/fixtures/list_sample.json) を生成済のため不要。
+# ローカルに残置されている場合がある (削除はオーナー手動)。
+.tmp_recon/

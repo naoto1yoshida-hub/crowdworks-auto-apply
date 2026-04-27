@@ -158,28 +158,52 @@ https://crowdworks.jp/public/jobs/{job_id}
 - [Fact] `job_id` は数値（例: `11911190`）[WebSearch 結果 2026-04-24]
 - [Inference] 一覧ページから `<a href="/public/jobs/{job_id}">` の相対URLを抽出、絶対URLに解決。
 
-### 3.2 パース手段 [Fact / Inference]
+### 3.2 パース手段 [Fact] (v0.3 確定 / 2026-04-27)
+
+> **v0.3 改訂**: v0.2 時点では実 DOM 構造を `[Unknown]` としていたが、Woz が 2026-04-27 に実機 HTML を 1 回取得し（`https://crowdworks.jp/public/jobs?order=new`、200 OK / 100,490 bytes / robots.txt 検証クリア）構造解析した結果、以下の事実が確定した。
+
+**[Fact] 実 DOM 構造**:
+- CrowdWorks `/public/jobs` ページは Vue ベース SPA。HTML 内に `<vue-container ... data="...">` 要素が存在し、その `data` 属性に searchResult JSON が**完全な形でサーバーサイド埋め込み**されている。
+- `data` 属性は HTML エンティティでエスケープされた JSON 文字列。`html.unescape()` → `json.loads()` でパース可能。
+- v0.2 が前提とした `ul.search_results` / `li.jobs_lists` / `a.item_title` / `.posted_time` / `.category` といった DOM 要素は**実 HTML 内に一切存在しない** → BS4 + DOM セレクタ方式は**原理的に不成立**。
+
+**[Fact] JSON 構造（searchResult.job_offers[]、50 件/ページ）**:
+- `job_offer.id` (int) — 案件 ID
+- `job_offer.title` (str)
+- `job_offer.description_digest` (str, 120 字固定で 50/50 件確認)
+- `job_offer.category_id` (int) + `job_offer.genre` (str)
+- `job_offer.last_released_at` (ISO8601 文字列、tz 付)
+- `payment` (5 サブタイプ: fixed_price_payment / task_payment / hourly_payment / fixed_price_writing_payment / competition_payment)
+- `entry.project_entry` (応募状況サマリ)
+- `client` (user_id / username / user_picture_url / is_employer_certification)
 
 **ライブラリ:**
 - `requests==2.32.3` 以上 [Fact: PyPI 最新系列]
-- `beautifulsoup4==4.14.3`（2025-11-30 リリース、最新）[Fact: PyPI 2026-04-24]
+- `beautifulsoup4` は v0.3 で**不要化**（JSON 抽出のみで足りるため）。`requirements.txt` には依存として残るが、実装は標準ライブラリ `re` + `html` + `json` で完結。
+- 詳細ページ（Task 5 以降）で BS4 を使う可能性は残るため当面 `requirements.txt` から削除しない。
 
-**パース戦略:**
-- [Inference] BeautifulSoup は HTML 構造変化に対して CSS セレクタ or タグ階層指定のいずれかで柔軟に対応可能。
-- [Unknown] 実際の DOM 構造（`<article>` / `<div class="job-item">` / `<li class="search_results">` 等）は Woz が実装着手時に実機取得して決定。本書では**抽象的インターフェース**のみ規定。
+**パース戦略 [Fact]:**
+- 一覧 HTML から正規表現 (`<vue-container[^>]*\bdata="(\{[^"]+\})"`) で data 属性 JSON を抽出
+- `html.unescape()` で HTML エンティティ復号後、`json.loads()` でパース
+- `searchResult.job_offers[].job_offer.*` を `Job` dataclass にマッピング
+- `pr_diamond` / `pr_platinum` / `pr_gold` の広告枠は Phase 1 では除外
+- 詳細ページ（Phase 1 では Scorer 60 点以上に限定）は Task 5 以降で別途確定
 
-**抽出ロジック（擬似コード）:**
+**抽出ロジック（実装、`src/fetcher.py` 抜粋）:**
 ```python
-# 一覧ページから job_id と基本メタデータを抽出
-soup = BeautifulSoup(list_html, "html.parser")
-job_items = soup.select("<実装時確定セレクタ>")
-for item in job_items:
-    job_id = extract_job_id_from_href(item)  # /public/jobs/11911190 → 11911190
-    title = item.select_one("<title セレクタ>").text.strip()
-    summary = item.select_one("<summary セレクタ>").text.strip()
-    posted_at = parse_posted_time(item.select_one("<date セレクタ>").text)
-    category = item.select_one("<category セレクタ>").text.strip()
-    url = f"https://crowdworks.jp/public/jobs/{job_id}"
+import html
+import json
+import re
+
+VUE_CONTAINER_RE = re.compile(
+    r'<vue-container[^>]*\bdata="(\{[^"]+\})"', re.DOTALL,
+)
+
+def extract_vue_data(html_text: str) -> dict:
+    match = VUE_CONTAINER_RE.search(html_text)
+    if match is None:
+        raise ValueError("vue-container[data] not found")
+    return json.loads(html.unescape(match.group(1)))
 ```
 
 ### 3.3 取得カラム（Job データスキーマ） [Fact: オーナー要件]
@@ -190,7 +214,7 @@ for item in job_items:
 | `title` | str | 一覧 or 詳細 | 案件タイトル |
 | `summary` | str | 一覧（短縮）or 詳細（全文） | Phase 1 はまず一覧の summary、詳細取得した案件は詳細本文で上書き |
 | `url` | str | `https://crowdworks.jp/public/jobs/{job_id}` | 応募遷移用 |
-| `posted_at` | datetime (JST) | 一覧 or 詳細の投稿日時表示 | [Unknown] ISO8601 形式で保存されるか DOM 検証時に確定 |
+| `posted_at` | datetime (tz付) | 一覧 JSON `last_released_at` | [Fact, v0.3 確定] ISO8601 文字列 (例 `2026-04-27T10:02:01+09:00`) で常に存在、`datetime.fromisoformat()` で tz-aware datetime に変換可能 |
 | `category` | str | パンくず or カテゴリ表示 | 例: "ホームページ制作 > コーディング" |
 
 ### 3.4 Rate Limiting 設計 [Inference / Fact]
